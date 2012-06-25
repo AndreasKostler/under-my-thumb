@@ -1,10 +1,15 @@
-under-my-thumb
-==============
+# under-my-thumb
 
-Clojure library for dynamically creating thumbnails. It uses PDFBox for creating thumbnail previews from pdf documents. Supported document formats are:
+I'm an app. Or maybe I'm a library? I haven't decided yet. 
 
-* pdf
-* txt
-* popular image formats (png, jpg, gif)
+The choice is up to you!
 
-Feel free to use, re-use, and extend.
+## Usage
+
+FIXME
+
+## License
+
+Copyright © 2012 FIXME
+
+Distributed under the Eclipse Public License, the same as Clojure.
